@@ -1,0 +1,9 @@
+.TodoList-main{
+  display: flex;
+  justify-content: center;
+}
+
+.TodoList-List{
+  margin: auto;
+  text-align: center;
+}
